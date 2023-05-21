@@ -2,7 +2,7 @@ body
 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: aliceblue;    
-    margin: 1;
+    margin: 0;
 }
 
 
@@ -74,6 +74,7 @@ footer
 {
     font-family: Verdana;
     background-color: white;
+    margin-block-end: 0;
 }
 
 .contactos
