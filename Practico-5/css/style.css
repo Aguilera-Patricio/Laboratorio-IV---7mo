@@ -1,0 +1,86 @@
+body 
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aliceblue;    
+    margin: 1;
+}
+
+
+header
+{
+    background-color: white;
+    align-items: center;
+    padding: 10;
+    font-family:'Segoe UI', sans-serif, Geneva;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo
+{
+    margin-right: 10%;
+
+}
+
+.img 
+{
+    float: left;
+    margin: 1%;
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+}
+
+.img2
+{
+    margin: 1%;
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+}
+
+.centrar 
+{
+    text-align: center;
+}
+
+article
+{ 
+    text-align: center;
+    font-family: Georgia;
+    background-color:rgb(210, 229, 245);
+    display:flow-root;
+
+}
+
+
+a
+{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;    
+}
+
+ul
+{
+list-style: none;
+}
+
+footer 
+{
+    font-family: Verdana;
+    background-color: white;
+}
+
+.contactos
+{
+    align-items: center;
+    padding: 1%;
+    font-family:'Segoe UI', sans-serif, Geneva;
+    display: flex;
+    justify-content: space-between;
+}
