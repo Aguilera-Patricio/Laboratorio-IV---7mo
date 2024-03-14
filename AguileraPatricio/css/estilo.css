@@ -1,0 +1,23 @@
+body
+{
+    margin: 0%;
+}
+
+a{
+    display: block !important;
+    margin: 10px;
+}
+
+.agrandar
+{
+    font-size: 20px;
+    padding: 10px;
+}
+
+.fondo-imagen{
+    background-color: #cbdcdf;
+}
+
+.fondo-menu{
+    background-color: #aeced2;
+}
